@@ -1,1 +1,1 @@
-Fixed issue number 1
+Sample issue #1 fixed
